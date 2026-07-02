@@ -1,31 +1,32 @@
 # Welcome to BYU // LABS 🤙
 
-An academic software engineering sandbox and dynamic repository feed tracking my computer science journey at Brigham Young University. 
+An academic software engineering sandbox and dynamic repository feed tracking my computer science journey at Brigham Young University. Shared by Sebastián Iturralde.
 
 ---
 
-### 🏛️ BYU Course Work & Reference Material
-If you're a classmate currently grinding through these semesters, feel free to reference my assignment setups, boilerplates, and structured layouts:
+### 🏛️ BYU Coursework & Labs
+If you're a classmate currently navigating these semesters, feel free to reference my assignment setups, boilerplates, and structured layouts:
 
-*   **Python Infrastructure** — Core automation frameworks and scripting layouts (`cse110` / `cse111`)
-*   **Object-Oriented Design** — Structural patterns, class hierarchies, and SOLID architecture (`cse210`)
-*   **Dynamic Web Development** — Vanilla JavaScript DOM manipulation, advanced CSS layouts, and API routing (`wdd131` / `wdd231`)
-
----
-
-### 🧪 Standalone Ecosystem Sandboxes
-Larger personal production environments built outside regular curriculum guidelines to test system parameters:
-
-*   [AniStream](https://anistream.itusebastian.com) — Full-stack media streaming web app framework.
-*   [Fabrication Unit](https://byulabs.github.io/fabrication-unit/) — State-managed modular browser environment using the Web Audio API.
-*   [Cuarenta](https://cuarenta.itusebastian.com/) — Digital web implementation of the traditional Ecuadorian card game.
+*   **wdd330** — Dynamic web apps built from scratch using pure JavaScript, HTML, CSS, and Node.js. Framework-free frontend.
+*   **wdd231** — Advanced web dev materials: examples, assignments, and labs for HTML, CSS, and JavaScript.
+*   **cse340** — Server-side web applications using Node.js, MVC design patterns, and PostgreSQL.
+*   **cse210** — C# console projects emphasizing Object-Oriented Programming (OOP), SOLID principles, and class hierarchies.
+*   **wdd131** — Web design fundamentals focused on DOM manipulation, advanced CSS layouts, and vanilla JS.
+*   **php-oop-fundamentals** — Deep dive into PHP OOP fundamentals, inheritance, and core backend design patterns.
 
 ---
 
-### 🤝 Campus Collaboration
-If you are looking for a reliable project partner for an upcoming CS lab, want to share a boilerplate tool, or just want to talk software architecture over a code review:
+### 🧪 The Sandbox Ecosystem
+Live production links to environments and platforms deployed to test system boundaries, framework parameters, and deployment pipelines:
 
-*   💻 Explore the live tracking dashboard at [byulabs.github.io](https://byulabs.github.io)
-*   💬 **Microsoft Teams:** [Chat on Teams](https://teams.microsoft.com/l/chat/0/0?users=siturralde@byupathway.edu)
+*   [🚀 CSE 340 Deployment](https://cse340-p8my.onrender.com/) — Live server-side application sandbox on Render.
+*   [💻 WDD 330 Sandbox](https://wdd330-y0zq.onrender.com/) — Live framework-free JavaScript applications on Render.
+*   [📁 WDD 231 Laboratory](https://byulabs.github.io/wdd231/) — Frontend collection hosted via GitHub Pages.
+*   [🎨 WDD 131 Foundations](https://byulabs.github.io/wdd131/) — Core web layout and DOM experiments.
 
-**Rise and Shout! ⚡**
+---
+
+### 🛠️ Tech Stack & Competencies
+```text
+Backend & Systems:  PHP / MySQL, C# / SOLID, Java / OOP, Python, Node.js, PostgreSQL
+Frontend & UI:      JavaScript / DOM, Web Audio API, Tailwind CSS, Jekyll, HTML5 / CSS3
