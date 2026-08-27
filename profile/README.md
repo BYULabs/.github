@@ -4,7 +4,7 @@ BYU Computer Science student sharing course labs, coding sandboxes, and side pro
 
 Shared by **Sebastián Iturralde**.
 
-[🌐 Portfolio](https://www.itusebastian.com/) | [💬 Contact](https://teams.microsoft.com/l/chat/0/0?users=siturralde@byupathway.edu)
+🌐 [Portfolio](https://www.itusebastian.com/) | 💬 [Contact](https://teams.microsoft.com/l/chat/0/0?users=siturralde@byupathway.edu)
 
 ---
 
@@ -25,10 +25,10 @@ Shared by **Sebastián Iturralde**.
 
 Live production links to environments and platforms deployed to test system boundaries and framework parameters:
 
-* [⚽ CougarHype](https://cougarhype.onrender.com/) — Live sports analytics dashboard.
-* [🚀 CSE 340](https://cse340-p8my.onrender.com/) — Server-side application sandbox on Render.
-* [💻 WDD 330](https://wdd330-y0zq.onrender.com/) — Framework-free JavaScript laboratory.
-* [📁 WDD 231](https://byulabs.github.io/wdd231/) — Frontend collection hosted via GitHub Pages.
+* ⚽ [CougarHype](https://cougarhype.onrender.com/) — Live sports analytics dashboard.
+* 🚀 [CSE 340](https://cse340-p8my.onrender.com/) — Server-side application sandbox on Render.
+* 💻 [WDD 330](https://wdd330-y0zq.onrender.com/) — Framework-free JavaScript laboratory.
+* 📁 [WDD 231](https://byulabs.github.io/wdd231/) — Frontend collection hosted via GitHub Pages.
 
 ---
 
